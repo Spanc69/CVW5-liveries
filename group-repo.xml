@@ -1,1 +1,20 @@
+<mod_list>
+  <!-- Example Livery Pack -->
+  <mod 
+    name="CVW5 Liveries Pack v1.0" 
+    version="1.0" 
+    url="https://github.com/Spanc69/CVW5-liveries/releases/download/v1.0/cvw5-liveries.zip">
+    Official CVW5 liveries for group use
+  </mod>
 
+  <!-- Add more mods here like this: -->
+  <!--
+  <mod 
+    name="Another Mod Name" 
+    version="2.1" 
+    url="https://github.com/Spanc69/CVW5-liveries/releases/download/v2.1/another-mod.zip">
+    Description of this mod
+  </mod>
+  -->
+
+</mod_list>
