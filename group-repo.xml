@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<repository>
-  <mods>
-    <mod>
-      <title>VF-2 Liveries</title>
-      <version>1.0</version>
-      <url>https://github.com/Spanc69/CVW5-liveries/releases/download/v1.0-vf2/VF-2.Liveries-v1.0.zip</url>
-    </mod>
-  </mods>
-</repository>
+<OMM_Repository>
+  <mod_list>
+    <mod title="VF-2 Liveries" version="1.0"
+         url="https://github.com/Spanc69/CVW5-liveries/releases/download/v1.0-vf2/VF-2.Liveries-v1.0.zip"/>
+  </mod_list>
+</OMM_Repository>
