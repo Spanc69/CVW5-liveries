@@ -1,8 +1,3 @@
 <mod_list>
-  <mod 
-    name="VF-2 Liveries v1.0" 
-    version="1.0" 
-    url="https://github.com/Spanc69/CVW5-liveries/releases/download/v1.0-vf2/VF-2.Liveries-v1.0.zip">
-    VF-2 Liveries for the group
-  </mod>
+  <mod name="VF-2 Liveries v1.0" version="1.0" url="https://github.com/Spanc69/CVW5-liveries/releases/download/v1.0-vf2/VF-2.Liveries-v1.0.zip">VF-2 Liveries for the group</mod>
 </mod_list>
