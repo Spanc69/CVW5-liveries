@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<OMM_Netlib>
-  <title>CVW-5 Liveries</title>
-  <uuid>f47ac10b-58cc-4372-a567-0e02b2c3d479</uuid>
-  <mods count="1">
-    <mod>
-      <title>VF-2 Bounty Hunters F-14D</title>
-      <version>1.0.0</version>
-      <url>https://github.com/Spanc69/CVW5-liveries/releases/download/v1.0-vf2/VF-2.Liveries-v1.0.zip</url>
-      <checksum>sha256:70b2ec51fed9d8df54172e73a...</checksum>
-    </mod>
-  </mods>
-</OMM_Netlib>
+<Open_Mod_Manager_Repository>
+<uuid>ce442760-f52e-47ba-99b4-4a9ffd722576</uuid>
+<title/>
+<downpath>https://github.com/Spanc69/CVW5-liveries/releases/download/v1.0/VF-2_liveries.ozp</downpath>
+<references count="0">
+<mod ident="VF-2_100_CAG_v1.0" file="VF-2_100_CAG_v1.0.ozp" bytes="72350901" xxhsum="9173603781a64387" category="Skin"/>
+</references>
+</Open_Mod_Manager_Repository>
