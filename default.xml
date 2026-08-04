@@ -1,10 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Open_Mod_Manager_Repository>
-<uuid>69cb3ca7-13db-42e6-8868-81840459ba2c</uuid>
-<title>CVW-5 Liveries</title>
-<downpath>https://github.com/Spanc69/CVW5-liveries/releases/download/v1.0/</downpath>
-<references count="1">
-<mod ident="VF-2_Liveries_v1.1" file="VF-2_Liveries_v1.1.ozp" bytes="663604779" xxhsum="15de9e427509c381" category="Skin">
-<description bytes="107">data:application/octet-stream;base64,eJwLc9M1UggtSEksSVXILFFw0zU0cQrl5dLV1VXwSy1X8HAP1TU1VfBIzclNLSmGiDumpKSmKCTn5+bm50E1KKTl56SkFiHLGxqY6ygYGhrqKCTmpSgYGhoxAAAi9Rw+</description>
-</mod>
-</references>
+  <uuid>69cb3ca7-13db-42e6-8868-81840459ba2c</uuid>
+  <title>CVW-5 Liveries</title>
+  <downpath>https://github.com/Spanc69/CVW5-liveries/releases/download/v1.0/</downpath>
+  <references count="1">
+    <mod
+      ident="VF-2_Liveries_v1.1"
+      file="VF-2_Liveries_v1.1.ozp"
+      bytes="663604779"
+      xxhsum="15de9e427509c381"
+      category="Skin"
+    />
+  </references>
 </Open_Mod_Manager_Repository>
