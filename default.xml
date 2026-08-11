@@ -4,8 +4,8 @@
 <downpath>https://github.com/Spanc69/CVW5-liveries/releases/download/v1.0/</downpath>
 <references count="2">
 <mod ident="VF-2_Liveries_v1.2" file="VF-2_Liveries_v1.2.ozp" bytes="663601192" xxhsum="a4e561d39d553c0b" category="Generic">
-<mod ident="VFA-34_Liveries_v1.0" file="VFA-34_Liveries_v1.0.ozp" bytes="603516592" xxhsum="87c9250085d4a825" category="Skin"/>
 <description bytes="110">data:application/octet-stream;base64,eJwLc9M1UggtSEksSVXILFFw0zU0cQpV4OXS1dVV8EstV/BwD9U1NVXwSM3JTS0phko4pqSkpigk5+fm5ufBtKTl56SkFqEoMDQw11EwNDTUUUjMS1EwNDRiAABiZBye</description>
 </mod>
+<mod ident="VFA-34_Liveries_v1.0" file="VFA-34_Liveries_v1.0.ozp" bytes="603516592" xxhsum="87c9250085d4a825" category="Skin"/>
 </references>
 </Open_Mod_Manager_Repository>
